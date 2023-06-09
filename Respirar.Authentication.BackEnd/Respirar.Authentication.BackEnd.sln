@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32602.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Respirar.Authentication.BackEnd", "Respirar.Authentication.BackEnd\Respirar.Authentication.BackEnd.csproj", "{08F5D6AD-51C9-438B-8FF1-C2E443EF7361}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Respirar.Authentication.BackEnd.Application", "Respirar.Authentication.BackEnd.Application\Respirar.Authentication.BackEnd.Application.csproj", "{CFB15CDC-A4C0-4253-876C-B3D78D05A98E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{08F5D6AD-51C9-438B-8FF1-C2E443EF7361}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08F5D6AD-51C9-438B-8FF1-C2E443EF7361}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08F5D6AD-51C9-438B-8FF1-C2E443EF7361}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08F5D6AD-51C9-438B-8FF1-C2E443EF7361}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CFB15CDC-A4C0-4253-876C-B3D78D05A98E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFB15CDC-A4C0-4253-876C-B3D78D05A98E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFB15CDC-A4C0-4253-876C-B3D78D05A98E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFB15CDC-A4C0-4253-876C-B3D78D05A98E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {08312137-7174-464F-92DE-4FE7CC87F47E}
+	EndGlobalSection
+EndGlobal
